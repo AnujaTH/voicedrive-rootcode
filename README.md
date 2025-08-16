@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: 
+**URL**: https://voicedrive-rootcode.vercel.app/
 
 
 **Use your preferred IDE**
